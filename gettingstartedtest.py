@@ -1,5 +1,4 @@
 from original.gettingstarted import GettingStarted
-#from original import gettingstarted
 import unittest
 
 class GettingStartedTest(unittest.TestCase):
